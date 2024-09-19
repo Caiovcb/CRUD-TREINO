@@ -1,3 +1,5 @@
+Antes de tudo, assim que possivel atualizar a foto de vocês no Gitea.
+
 O que é Git?
 R:
 
