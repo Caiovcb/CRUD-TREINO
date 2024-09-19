@@ -1,0 +1,10 @@
+comando para criar e mudar de branch rapido
+
+git checkout -b crud_renan
+git status - explicar o que está acontecendo
+
+-git pull - atualizar o branch
+-git add . - adicionar todos os arquivos
+-git commit -m "mensagem" - confirmar o commit (explicando o nome da atividade)
+-git push - enviar para o github
+git
