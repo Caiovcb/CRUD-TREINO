@@ -3,4 +3,4 @@ git checkout -b crud_sidnei
 git pull
 git add .
 git commit -m "identificaçao do trabalho "
-git push
+git push 
