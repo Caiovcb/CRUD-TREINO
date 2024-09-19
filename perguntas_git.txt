@@ -1,0 +1,25 @@
+O que é Git?
+R:
+
+Qual é a diferença entre Git e GitHub?
+R:
+
+O que o comando git commit -m faz?
+R:
+
+Como criar uma nova branch em Git?
+R:
+
+Qual é o comando para enviar suas alterações para o GitHub, Gitea, bitbucket....etc?
+R:
+
+Como você clona um repositório do GitHub para sua máquina?
+R:
+
+O que é um "pull request"?
+R:
+
+o que faz o arquivo .gitignore?
+R:
+
+teste o gitignore adicionado algum arquivo e subindo para o repositorio para ver se funciona.
