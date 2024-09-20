@@ -10,7 +10,8 @@ O que o comando git commit -m faz?
 R:
 
 Como criar uma nova branch em Git?
-R:
+R: git branch "nome_da_branch 
+R: git checkout -b nome_da_branch  
 
 Qual é o comando para enviar suas alterações para o GitHub, Gitea, bitbucket....etc?
 R:
