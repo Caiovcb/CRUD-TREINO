@@ -1,2 +1,42 @@
 Comandos_git
 
+# Criado por https://www.toptal.com/developers/gitignore/api/nextjs
+# Edite em https://www.toptal.com/developers/gitignore?templates=nextjs
+
+### PróximoJS ###
+# dependências
+/módulos_de_nó
+/.pnp
+.pnp.js
+
+# teste
+/cobertura
+
+# próximo.js
+/.próximo/
+/fora/
+
+# produção
+/construir
+
+# diversos
+.DS_Loja
+*.pem
+
+# depurar
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# arquivos env locais
+.env*.local
+
+#vercel
+.vercel
+
+# datilografado
+*.tsbuildinfo
+próximo-env.d.ts
+
+# Fim de https://www.toptal.com/developers/gitignore/api/nextjs

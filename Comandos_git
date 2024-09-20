@@ -1,7 +1,10 @@
 # git checkout -b crud_sidnei // criar branch
-# git pull atualizar codico 
-# git add . sobe todas as att
-# git commit -m "identificaçao do trabalho " msg sobre o commit feito
-# git push  sobe seu commit pro git hub 
-# git status ver status de git
-# git rebase origin/main
+# git pull// atualizar codico 
+
+# 1git add .// prepara os arquivos para subir
+# 2git commit -m explicar oque vc subiu no add .
+# 3 git push // sobe seu commit pro git hub 
+
+# git status //ver status de git
+# git rebase origin/main // 
+# git push --force // forçar a subir msm dando fail

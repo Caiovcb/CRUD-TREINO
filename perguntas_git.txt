@@ -4,25 +4,35 @@ O que é Git?
 R:
 
 Qual é a diferença entre Git e GitHub?
-R:
+R: Git = local instalado direto no seu pc , é uma ferramenta que vc usa pra gerenciar as versoes do seu codico
+R: Github = plataforma de hospedagem e colaboraçao , local onde compartilha projetos git e tmb colabora com outros dev
 
 O que o comando git commit -m faz?
-R:
+R: registrar oque foi alterado no seu arquivo antes de subir
 
 Como criar uma nova branch em Git?
-R: git branch "nome_da_branch 
-R: git checkout -b nome_da_branch  
+R: git branch "nome_da_branch  // criar a branch
+R: git checkout -b nome_da_branch  // criar e ir pra branch com um unico comando 
+R: git checkout nome_da_branch // ir para a branch
+
 
 Qual é o comando para enviar suas alterações para o GitHub, Gitea, bitbucket....etc?
-R:
+R:git push = usado para enviar a alteraçao pro repositorio remoto
+R: git push origin main 
+R: origin = nome comum pra repositorio remoto , (checar qual o nome do repositorio)
+R: main = nome da branch que vc vai enviar 
+
 
 Como você clona um repositório do GitHub para sua máquina?
-R:
+R: use este comando cd Documents/(nome do local a ser armazenado, onde vc guardara o clone )
+R: git clone (link do repositorio ) EX: (git clone https://github.com/seu_usuario/seu_repositorio.git)
+R: Entrar no diretório do repositório clonado = cd react
 
 O que é um "pull request"?
-R:
+R: uma proposta pra incluir suas mudanças em um projeto , usado pra garantir a qualidade do codico e pra promover a colab nos projetos 
 
 o que faz o arquivo .gitignore?
-R:
+R: O arquivo .gitignore é usado pra indicar quais arquivos ou diretorios voce deseja que o git nao mostre em publico 
+
 
 teste o gitignore adicionado algum arquivo e subindo para o repositorio para ver se funciona.
