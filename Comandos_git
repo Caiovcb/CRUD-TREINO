@@ -6,3 +6,4 @@ Comandos para criar e mudar branch rapido
 - git add .
 - git commit -m "Nome da atividade"
 - git push
+- git rebase origin/main
