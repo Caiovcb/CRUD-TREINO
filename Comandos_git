@@ -1,6 +1,9 @@
-git checkout -b crud_sidnei
+comando para criar e mudar de branch rapido
 
-git pull
-git add .
-git commit -m "identificaçao do trabalho "
-git push
+- git checkout -b crud_pedro // criar branch
+- git staus // ver status de git
+
+- git pull // atualizar o codigo
+- git add . //sobe todas as atualizacoes
+- git commit -m "mensagem sobre o commit feito" //fixa uma mensagem junto da atualizacao
+- git push // sobre seu commit pro git hub hub
