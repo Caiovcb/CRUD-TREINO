@@ -1,27 +1,28 @@
 Antes de tudo, assim que possivel atualizar a foto de vocês no Gitea.
 
 O que é Git?
-R:
+R: é uma ferramenta para controle de versão de codigo
 
 Qual é a diferença entre Git e GitHub?
-R:
+R: git controlar versões de codigos e github é uma plataforma para hospedar repositorios
 
 O que o comando git commit -m faz?
-R:
+R: Criar um novo commit 
 
 Como criar uma nova branch em Git?
-R:
+R: git checkout -b Nome da branch que quer criar.
+Nome não pode conter espaços
 
 Qual é o comando para enviar suas alterações para o GitHub, Gitea, bitbucket....etc?
-R:
+R: git push
 
 Como você clona um repositório do GitHub para sua máquina?
-R:
+R: git clone seguido da url do repositorio
 
 O que é um "pull request"?
-R:
+R: Criar solicitação de aprovação
 
 o que faz o arquivo .gitignore?
-R:
+R: ignorar certos arquivos para subir para a branch de forma mais limpa
 
 teste o gitignore adicionado algum arquivo e subindo para o repositorio para ver se funciona.
