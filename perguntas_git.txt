@@ -14,15 +14,15 @@ R:git branch nome_da_branch
 git checkout -b nome_da_branch
 
 Qual é o comando para enviar suas alterações para o GitHub, Gitea, bitbucket....etc?
-R:
+R:git push
 
 Como você clona um repositório do GitHub para sua máquina?
-R:
+R:git clone https://github.com/usuario/nome_do_repositorio.git
 
 O que é um "pull request"?
-R:
+R:é um "pedido para outras pessoas verem seu codigo"
 
 o que faz o arquivo .gitignore?
-R:
+R:e um arquivo que ignora tudo dentro dele na hora de subir algum projeto
 
 teste o gitignore adicionado algum arquivo e subindo para o repositorio para ver se funciona.
