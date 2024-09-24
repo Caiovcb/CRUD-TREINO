@@ -1,13 +1,13 @@
 Antes de tudo, assim que possivel atualizar a foto de vocês no Gitea.
 
 O que é Git?
-R:
+R:um lugar onde devs ajustam, modificam o codigo e etc
 
 Qual é a diferença entre Git e GitHub?
-R:
+R:git é onde os devs modificam o codigo e tec , git hub é onde as modificacoes sao mostradas
 
 O que o comando git commit -m faz?
-R:
+R: deixa um comentario sobre as atualizacoes feitas
 
 Como criar uma nova branch em Git?
 R:git branch nome_da_branch
