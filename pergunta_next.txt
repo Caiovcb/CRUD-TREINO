@@ -1,17 +1,19 @@
 O que é Next.js?
-R:
+R: o Nextjs é para criação de sites rapidos e escalaveis
 
 Qual a diferença entre Next.js e React?
-R:
+R: Nextjs é framework e o reack é biblioteca de javascript focada em construir interfaces,
+nextjs é expansão do react 
+ 
 
 Como criar uma nova aplicação Next.js?
-R:
+R:tem que baixar o nodejs ai executar no terminal 'npx create-next-app@latest', vai criar o basico do projeto
 
 Qual comando usamos para rodar o servidor local de uma aplicação Next.js?
-R:
+R: comando pra iniciar o servidor é 'rpm run dev'
 
 O que é "SSR" (Server-Side Rendering) em Next.js?
-R:
+R:é para gerar o conteudo da pagina no servidor, é bom pra melhorar o desempenho
 
 O que é uma página estática no Next.js?
 R:
