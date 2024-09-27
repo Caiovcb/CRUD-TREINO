@@ -1,6 +1,18 @@
-git checkout -b crud_sidnei
+Comandos para criar e mudar branch rapido
+- git checkout -b crud_daniel (O recurso "-b" realiza a criação de uma nova branch e já navega na propia)
+- git checkout crud_daniel (Navegar para outra branch)
+- git status (Verificar status)
+- git rebase origin/main (comando para atualizar a base do meu pc)
 
-git pull
-git add .
-git commit -m "identificaçao do trabalho "
-git push
+
+Processo padrão para subir qualquer trabalho
+
+1º Verificar se estou na pasta do repositorio "~/OneDrive/Desktop/estudo/CRUD-TREINO"
+    1.1 Se tiver fora codigo (cd crud treino "usar tecla TAB para completar automaticamente")
+se tiver dentro da pasta
+    1.2 voltar para pasta anterior (cd ..)
+
+- git pull (atualizar caso tenha alteração "usar antes de começar alguma atividade")
+- git add . (preparar para subir todos arquivos que foram alterados )
+- git commit -m "Nome da atividade" (Nomeia os arquivos preparados para subir)
+- git push ou git push --force (Realiza upload de todos os arquivos)
